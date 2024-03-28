@@ -36,19 +36,48 @@ body{
     text-align: center;
 }
 
+.item-tabela-aqua{
+    height: 50px;
+    width: 50px;
+    border: 2px solid aquamarine;
+    text-align: center;
+}
+
+.item-tabela-roxo{
+    height: 50px;
+    width: 50px;
+    border: 2px solid purple;
+    text-align: center;
+}
+
+.item-tabela-rosa{
+    height: 50px;
+    width: 50px;
+    border: 2px solid pink;
+    text-align: center;
+}
+
+.item-tabela-verde{
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+    text-align: center;
+}
+
+.item-tabela-ciano{
+    height: 50px;
+    width: 50px;
+    border: 2px solid cyan;
+    text-align: center;
+}
+
 .item-tabela-fake{
     height: 50px;
     width: 50px;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto auto;
-    background-color: black;
-    padding: 10px;
-  }
 
-  footer {
+footer {
     background-color: #777;
     padding: 10px;
     text-align: center;
