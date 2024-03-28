@@ -9,9 +9,6 @@ body{
 .tabuleiro{
     height: 700px;
     width: 1000px;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
 }
 
 .row{
@@ -19,7 +16,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-
+    text-align: center;
 }
 
 .item-tabela{
